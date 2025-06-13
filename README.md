@@ -44,17 +44,17 @@ It supports:
 
 ---
 
-## 🧱 Features
+## Features
 
-- ✅ Add items to inventory
-- 🔍 Lookup items by unique ID (using `std::unordered_map`)
-- 📄 List all items alphabetically by description (using `std::map`)
-- ❌ Remove items with proper error checking
-- 🚫 Handles duplicates and missing entries with custom exceptions
+- Add items to inventory
+-  Lookup items by unique ID (using `std::unordered_map`)
+- List all items alphabetically by description (using `std::map`)
+- Remove items with proper error checking
+- Handles duplicates and missing entries with custom exceptions
 
 ---
 
-## 🛠️ How to Compile
+## How to Compile
 
 Make sure you have a C++11-compatible compiler installed (like `g++`).
 
