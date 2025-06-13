@@ -56,7 +56,7 @@ It supports:
 
 ## How to Compile
 
-Make sure you have a C++11-compatible compiler installed (like `g++`).
+Make sure you have a C+171-compatible compiler installed (like `g++`).
 
 ```bash
-g++ -std=c++11 -o congo_inventory main.cpp
+g++ -std=c++17 -o congo_inventory main.cpp
